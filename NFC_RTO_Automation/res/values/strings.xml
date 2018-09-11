@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC_RTO_Automation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">NFC_RTO_Automation</string>
+    <string name="title_activity_swipe_nfc__card">SwipeNFC_Card</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_penalty_history">PenaltyHistory</string>
+    <string name="title_activity_penalty_details_screen">PenaltyDetailsScreen</string>
+    <string name="title_activity_new_penalty">NewPenalty</string>
+    <string name="title_activity_pending_penalty">PendingPenalty</string>
+    <string name="title_activity_car_location">CarLocation</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_user_car_details">UserCarDetails</string>
+
+</resources>
